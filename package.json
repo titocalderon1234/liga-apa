@@ -1,0 +1,1 @@
+{"name": "liga-apa","version": "1.0.0","description": "Bot de Discord para la Liga APA","main": "index.js","scripts": {"start": "node index.js","deploy": "node deploy-commands.js","test": "echo \"Error: no test specified\" && exit 1"},"keywords": ["discord", "bot"],"author": "Tito Calderón","license": "ISC","dependencies": {"discord.js": "^14.25.1","dotenv": "^16.3.1"}}
